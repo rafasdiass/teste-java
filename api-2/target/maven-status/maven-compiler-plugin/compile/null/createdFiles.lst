@@ -1,0 +1,15 @@
+com\fipe\api2\controller\MonitoringController$HealthResponse.class
+com\fipe\api2\repository\MarcaRepository.class
+com\fipe\api2\messaging\MarcaMessageConsumer.class
+com\fipe\api2\service\DataProcessingService.class
+com\fipe\api2\client\FipeClient$FipeModelosResponse.class
+com\fipe\api2\controller\MonitoringController.class
+com\fipe\api2\service\AuthService.class
+com\fipe\api2\controller\MonitoringController$MarcaStatusResponse.class
+com\fipe\api2\FipeApi2Application.class
+com\fipe\api2\client\FipeClient.class
+com\fipe\api2\controller\DataController.class
+META-INF\panache-archive.marker
+com\fipe\api2\controller\MonitoringController$ErrorResponse.class
+com\fipe\api2\repository\ModeloRepository.class
+com\fipe\api2\service\DataProcessingService$ProcessingStats.class

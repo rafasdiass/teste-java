@@ -1,0 +1,5 @@
+com\fipe\shared\dto\MarcaQueueMessage.class
+com\fipe\shared\entity\Modelo.class
+com\fipe\shared\entity\Marca.class
+com\fipe\shared\dto\ModeloDTO.class
+com\fipe\shared\dto\MarcaDTO.class
